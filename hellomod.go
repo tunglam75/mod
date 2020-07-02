@@ -1,4 +1,4 @@
-package hellomod
+package mod
 
 import (
 	"fmt"
